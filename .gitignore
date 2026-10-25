@@ -211,3 +211,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .opencode/
+
+# Файлы, которые создают примеры и задания семинаров
+output.txt
+report.txt
+*_output.txt
